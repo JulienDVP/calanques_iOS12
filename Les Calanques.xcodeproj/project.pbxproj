@@ -19,6 +19,7 @@
 		F9C1544B217222EF0045EAF8 /* CalanqueCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C1544A217222EF0045EAF8 /* CalanqueCell.swift */; };
 		F9C1544D217226490045EAF8 /* ImageRonde.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C1544C217226490045EAF8 /* ImageRonde.swift */; };
 		F9C1544F21722FB40045EAF8 /* CalanqueCellAlternative.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C1544E21722FB40045EAF8 /* CalanqueCellAlternative.swift */; };
+		F9C154512172379A0045EAF8 /* DetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C154502172379A0045EAF8 /* DetailController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		F9C1544A217222EF0045EAF8 /* CalanqueCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalanqueCell.swift; sourceTree = "<group>"; };
 		F9C1544C217226490045EAF8 /* ImageRonde.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageRonde.swift; sourceTree = "<group>"; };
 		F9C1544E21722FB40045EAF8 /* CalanqueCellAlternative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalanqueCellAlternative.swift; sourceTree = "<group>"; };
+		F9C154502172379A0045EAF8 /* DetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				F99DDFC42170E1B0005C71E9 /* ControllerAvecTableView.swift */,
 				F99DDFC62170E1CC005C71E9 /* ControllerAvecCarte.swift */,
 				F99DDFC82170E1EB005C71E9 /* TableViewIntegreeController.swift */,
+				F9C154502172379A0045EAF8 /* DetailController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 				F9C1544F21722FB40045EAF8 /* CalanqueCellAlternative.swift in Sources */,
 				F99DDFC52170E1B0005C71E9 /* ControllerAvecTableView.swift in Sources */,
 				F9C1544D217226490045EAF8 /* ImageRonde.swift in Sources */,
+				F9C154512172379A0045EAF8 /* DetailController.swift in Sources */,
 				F99DDFC12170DE3A005C71E9 /* Calanque.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
